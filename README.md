@@ -15,6 +15,8 @@ Gonorrhoea  is one of the commonly sexually transmitted bacterial illnesses all 
 
 #### Step 1: Download zip containing all the files. For our experiment we used Google collab. 
 
-#### Step 2: Upload all of the 5 files in the session storage and Run all
+#### Step 2: Upload the final_biomedical.py
+
+#### Step 3: Upload all of the 4 dataset files in the session storage and Run all.
 
 
